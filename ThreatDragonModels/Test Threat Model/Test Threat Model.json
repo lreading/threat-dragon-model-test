@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "Test Threat Model",
+    "owner": "Some Dude",
+    "description": "this is my high level system"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "tony"
+      },
+      {
+        "name": "the"
+      }
+    ],
+    "diagrams": [],
+    "reviewer": "Nobody"
+  }
+}
