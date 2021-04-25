@@ -13,7 +13,14 @@
         "name": "the"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "test",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
     "reviewer": "Nobody"
   }
 }
