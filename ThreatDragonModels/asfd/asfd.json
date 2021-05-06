@@ -10,7 +10,14 @@
         "name": "asdf"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "asdfasdf",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
     "reviewer": "asdf"
   }
 }
