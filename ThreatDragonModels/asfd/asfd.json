@@ -25,15 +25,25 @@
                 "height": 80
               },
               "position": {
-                "x": 50,
-                "y": 50
+                "x": 49,
+                "y": 63
               },
               "angle": 0,
               "id": "1a4c9503-ecbd-4c77-a310-bbfb75ea423a",
               "z": 1,
+              "hasOpenThreats": false,
+              "description": "asdfasdf",
+              "outOfScope": true,
+              "reasonOutOfScope": "some reason",
               "attrs": {
+                ".element-shape": {
+                  "class": "element-shape hasNoOpenThreats isOutOfScope"
+                },
                 "text": {
-                  "text": "actor 0"
+                  "text": "bad dude"
+                },
+                ".element-text": {
+                  "class": "element-text hasNoOpenThreats isInScope"
                 }
               }
             },
@@ -72,7 +82,15 @@
                 }
               ],
               "z": 2,
-              "attrs": {}
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
