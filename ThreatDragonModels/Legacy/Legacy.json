@@ -1,0 +1,30 @@
+{
+  "summary": {
+    "title": "Legacy",
+    "owner": "the owner",
+    "description": "Some text here"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "contrib 1a"
+      },
+      {
+        "name": "contrib 1b"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "diagram 1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "diagram 2",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "the reviewer"
+  }
+}
